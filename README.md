@@ -7,7 +7,7 @@
 
 - 🌱 I’m currently learning **NodeJS**
 
-- 👨‍💻 All of my projects are available at [vsevic.com](vsevic.com)
+- 👨‍💻 All of my projects are available at [vsevic.com](https://vsevic.com)
 
 - 💬 Ask me about **PHP, JavaScript, SQL, C, Go**
 
