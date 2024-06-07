@@ -1,6 +1,6 @@
 <h1 align="center">Hi there, I'm Vidoje Šević</h1>
 <h3 align="center">A passionate back-end developer from Serbia</h3>
-<img align="right" width="400" src="https://cdni.iconscout.com/illustration/premium/thumb/coding-project-1884980-1597918.png" alt="helloworld" />
+<img align="right" width="400" src="https://www.thedroptimes.com/sites/thedroptimes.com/files/2024-04/php-card.png" alt="helloworld" />
 
 
 - 🌱 I’m currently learning **Magento 2**
