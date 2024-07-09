@@ -7,7 +7,7 @@
 
 - 👨‍💻 All of my projects are available at [vsevic.com](https://vsevic.com)
 
-- 💬 Ask me about **PHP, JavaScript, SQL, C, Go**
+- 💬 Ask me about **PHP, JavaScript, SQL, C, Go, Lua**
 
 - 📫 How to reach me **vidoje@vsevic.com**
 
