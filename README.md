@@ -3,7 +3,7 @@
 <img align="right" width="400" src="https://www.thedroptimes.com/sites/thedroptimes.com/files/2024-04/php-card.png" alt="helloworld" />
 
 
-- 🌱 I’m currently learning **Filament**
+- 🌱 I’m currently learning **React**
 
 - 👨‍💻 All of my projects are available at [vsevic.com](https://vsevic.com)
 
